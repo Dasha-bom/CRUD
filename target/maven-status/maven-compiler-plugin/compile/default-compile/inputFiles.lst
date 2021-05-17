@@ -1,2 +1,16 @@
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\JpaConfig.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\JdbcConfig.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jpa\CarModelDAOJpaImpl.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\model\CarBrand.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\DataSourceConfig.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jpa\CarBrandDAOJpaImpl.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jdbc\CarBrandDAOJdbcImpl.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\AppInit.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\model\CarModel.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\WebConfig.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\CarModelDAO.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\hibernate\CarModelDAOHibernateImpl.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jdbc\CarModelDAOJdbcImpl.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\HibernateConfig.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\hibernate\CarBrandDAOHibernateImpl.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\CarBrandDAO.java
