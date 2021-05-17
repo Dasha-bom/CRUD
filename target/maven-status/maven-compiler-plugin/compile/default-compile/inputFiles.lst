@@ -8,14 +8,17 @@ C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\service\CarMode
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jpa\CarBrandDAOJpaImpl.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jdbc\CarBrandDAOJdbcImpl.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\service\CarBrandHibernateServiceImpl.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\controllers\HibernateController.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\hibernate\CarModelDAOHibernateImpl.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jdbc\CarModelDAOJdbcImpl.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\view\ExcelBuilder.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\service\CarModelJpaServiceImpl.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\controllers\JpaController.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\service\CarModelService.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\jpa\CarModelDAOJpaImpl.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\AppInit.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\model\CarModel.java
+C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\controllers\JdbcController.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\config\WebConfig.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\dao\CarModelDAO.java
 C:\Users\Sweet_Mouse\Documents\cursA\CRUD\src\main\java\mdu\crud\view\PDFBuilder.java
